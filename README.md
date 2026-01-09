@@ -5,6 +5,12 @@ This is a starter (skeleton) project provided for the event.
 
 👉 Participants must **fork this repository** and build their own snowman using creativity and code.
 
+## 🍴 Fork the Starter Code
+Click the link below to fork the repository and start building your snowman:
+
+👉 https://github.com/mhd-humraz/snowman/fork
+
+> Make sure you are logged into GitHub before clicking the link.
 ---
 
 ## 🎯 Objective
